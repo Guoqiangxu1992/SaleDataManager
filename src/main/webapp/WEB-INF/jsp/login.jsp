@@ -283,15 +283,20 @@ function refreshTab(cfg){
 			<div title="主界面" style="padding: 10px"
 				style="width:100%; height:100%;">
 				<div id="p"
-					style="width: 90%; height: 30%; padding: 10px; text-align: center; margin: 0 auto;color:red;
+					style="width: 100%; height: 10%; padding: 30px; text-align: right; margin: 0 auto;color:red;
 font-size:46px;">
-                     数据处理平台欢迎你！
+                             数据处理平台欢迎你！
          
 				</div>
+				<div style="width: 200px; height: 100px;">
+					<video src="${ctx}/video/movie.MP4" controls="controls">
+your browser does not support the video tag
+</video>
+				</div>
 				<div id="p"
-					style="width: 90%; height: 30%; padding: 10px; text-align: center; margin: 0 auto;color:red;
+					style="width: 100%; height: 20%; padding: 10px; text-align: right; margin: 0 auto;color:red;
 font-size:26px;">
-                        技术故障请联系：794092159@qq.com          
+                             技术故障请联系：794092159@qq.com          
 				</div>
 			</div>
 		</div>
